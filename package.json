@@ -1,0 +1,25 @@
+{
+  "name": "condingwargpt",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faroke/codingWarGPT.git"
+  },
+  "keywords": [],
+  "author": "Yann Faussette <yann.fo7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faroke/codingWarGPT/issues"
+  },
+  "homepage": "https://github.com/faroke/codingWarGPT#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "puppeteer": "^20.7.2"
+  }
+}
